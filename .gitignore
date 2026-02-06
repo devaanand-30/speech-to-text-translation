@@ -1,0 +1,21 @@
+# Virtual environments
+env/
+venv/
+
+# Datasets
+data/
+
+# Model weights
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio files
+*.wav
+*.mp3
+
+# Large binaries
+*.bin
+*.safetensors
